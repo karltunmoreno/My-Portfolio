@@ -126,7 +126,7 @@ a.dotted-link:hover {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #d7d4d4;
+  background: #b9b6b6;
   border-top: 10px solid #024e76;
 }
 
@@ -155,7 +155,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #222324;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -163,12 +163,12 @@ a.dotted-link:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #fff;
+  color: rgb(182, 176, 176);
   text-align: center;
 }
 
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: #9ba1a7;
 }
 
 .header .profile-content .social a .svg-inline--fa {
@@ -182,14 +182,14 @@ a.dotted-link:hover {
 }
 
 .section .section-inner {
-  background: #fff;
+  background: rgb(222, 215, 215);
   padding: 30px;
 }
 
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  color: #a8b3bf;
   font-size: 24px;
 }
 
@@ -221,7 +221,7 @@ a.dotted-link:hover {
 }
 
 .latest .item .title a:hover {
-  color: #5f6b77;
+  color: #a7afb8;
 }
 
 .latest .item .project-image:hover {
@@ -246,7 +246,7 @@ a.dotted-link:hover {
 
 .latest .featured .summary {
   margin-bottom: 30px;
-  color: #778492;
+  color: #25282c;
 }
 
 .latest .featured img {
@@ -264,7 +264,7 @@ a.dotted-link:hover {
 
 .latest .has-ribbon .text {
   background: #3AAA64;
-  color: #fff;
+  color: rgb(211, 205, 205);
 }
 
 .latest .has-ribbon .ribbon {
@@ -325,11 +325,11 @@ a.dotted-link:hover {
 }
 
 .projects .item .title a {
-  color: #778492;
+  color: #1c1d1e;
 }
 
 .projects .item .title a:hover {
-  color: #5f6b77;
+  color: #1c1d1e;
 }
 
 /* Work Section */
@@ -345,20 +345,20 @@ a.dotted-link:hover {
 }
 
 .experience .item .title .place {
-  color: #999;
+  color: rgb(94, 91, 91);
   font-weight: normal;
 }
 
 .experience .item .title .place a {
-  color: #999;
+  color: rgb(68, 65, 65);
 }
 
 .experience .item .title .place a:hover {
-  color: #666666;
+  color: #393737;
 }
 
 .experience .item .title .year {
-  color: #999;
+  color: rgb(56, 53, 53);
   font-weight: normal;
 }
 
@@ -460,7 +460,7 @@ a.dotted-link:hover {
 }
 
 .testimonials .item .quote {
-  color: #666;
+  color: rgb(82, 81, 81);
   font-size: 16px;
   border-left: 5px solid #9fdeb7;
   padding: 5px 15px;
@@ -483,12 +483,12 @@ a.dotted-link:hover {
 }
 
 .testimonials .item .source .name {
-  color: #939ea9;
+  color: #5a5c5f;
   font-weight: 600;
 }
 
 .testimonials .item .source .title {
-  color: #999;
+  color: rgb(61, 59, 59);
 }
 
 /* Education section */
@@ -508,13 +508,13 @@ a.dotted-link:hover {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #999;
+  color: rgb(77, 75, 75);
   font-weight: 600;
   padding-left: 25px;
 }
 
 .education .item .university .year {
-  color: #b0b7bf;
+  color: #464849;
   font-weight: 500;
 }
 
@@ -524,11 +524,11 @@ a.dotted-link:hover {
 }
 
 .languages .item .title {
-  color: #778492;
+  color: #5f6163;
 }
 
 .languages .item .level {
-  color: #999;
+  color: rgb(83, 81, 81);
 }
 
 .languages .item:last-child {
@@ -536,7 +536,7 @@ a.dotted-link:hover {
 }
 
 .languages .item .svg-inline--fa {
-  color: #79d19a;
+  color: #0fc956;
 }
 
 /* Blog Section */
