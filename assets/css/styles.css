@@ -115,7 +115,7 @@ a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):act
 
 a.dotted-link {
   border-bottom: 1px dotted #778492;
-  color: #778492;
+  color: #515962;
 }
 
 a.dotted-link:hover {
@@ -189,7 +189,7 @@ a.dotted-link:hover {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #a8b3bf;
+  color: #2e3033;
   font-size: 24px;
 }
 
@@ -217,11 +217,11 @@ a.dotted-link:hover {
 }
 
 .latest .item .title a {
-  color: #778492;
+  color: #4f565e;
 }
 
 .latest .item .title a:hover {
-  color: #a7afb8;
+  color: #494c4f;
 }
 
 .latest .item .project-image:hover {
@@ -264,7 +264,7 @@ a.dotted-link:hover {
 
 .latest .has-ribbon .text {
   background: #3AAA64;
-  color: rgb(211, 205, 205);
+  color: rgb(96, 93, 93);
 }
 
 .latest .has-ribbon .ribbon {
@@ -389,7 +389,7 @@ a.dotted-link:hover {
 /* Info Section */
 .info .svg-inline--fa {
   margin-right: 15px;
-  color: #ccd1d6;
+  color: #252628;
 }
 
 .info .svg-inline--fa.fa-envelope-o {
@@ -425,7 +425,7 @@ a.dotted-link:hover {
 }
 
 .skills .skillset .level-title .level-label {
-  color: #ccd1d6;
+  color: #878a8e;
   font-size: 14px;
   font-weight: 400;
   font-family: "Lato", arial, sans-serif;
