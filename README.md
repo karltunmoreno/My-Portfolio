@@ -14,6 +14,6 @@
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [GitHub Activity Stream](http://caseyscarborough.com/projects/github-activity/)
-- [GitHub Calendar Plugin](https://github.com/IonicaBizau/github-calendar)
+- [GitHub Calendar Plugin](https://github.com/karltunmoreno/github-calendar)
 - [Vanilla RSS](https://github.com/sdepold/jquery-rss)
 
