@@ -15,7 +15,7 @@ THEN I am presented with a responsive layout that adapts to my viewport.
 
 
 What was done.
-My personal porfolio for the challange is composed of a short bio of my recent employment and achivements.
+My porfolio is composed of a short bio of my recent employment and achivements.
 
 
 
