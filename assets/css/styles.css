@@ -9,8 +9,19 @@
 body {
   font-family: "Lato", arial, sans-serif;
   color: #1b1a1a;
-  background: #024e76;
-  font-size: 16px;
+  /* background: #024e76;*/
+  background-image: url("../images/top.png");
+
+  background-size: 1080px 1920px;
+  background-position: center;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+  background-size: contain;
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -140,8 +151,6 @@ a.dotted-link:hover {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #b9b6b6;
-  border-top: 10px solid #024e76;
 }
 
 .header .btn {
@@ -413,7 +422,7 @@ a.dotted-link:hover {
 
 /* Info Section */
 .info .svg-inline--fa {
-  margin-right: 15px;
+  margin-right: 100px;
   color: #252628;
 }
 
@@ -422,24 +431,24 @@ a.dotted-link:hover {
 }
 
 .info ul {
-  margin-bottom: 0;
+  margin-bottom: 50;
 }
 
 .info li {
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 
 .info li:last-child {
-  margin-bottom: 0;
+  margin-bottom: 50;
 }
 
 /* Skills Section */
 .skills .intro {
-  margin-bottom: 30px;
+  margin-bottom: 80px;
 }
 
 .skills .skillset .item {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .skills .skillset .level-title {
@@ -447,12 +456,14 @@ a.dotted-link:hover {
   position: relative;
   margin-top: 0;
   margin-bottom: 10;
+  width: max-content;
 }
 
 .skills .skillset .level-title .level-label {
   color: #878a8e;
   font-size: 14px;
   font-weight: 400;
+  width: 100px;
   font-family: "Lato", arial, sans-serif;
   position: absolute;
   right: 0;
@@ -460,7 +471,8 @@ a.dotted-link:hover {
 }
 
 .skills .skillset .level-bar {
-  height: 15px;
+  height: 70px;
+  width: 80px;
   background: #e8e8e8;
 }
 
@@ -477,7 +489,7 @@ a.dotted-link:hover {
 
 /* Testimonials section */
 .testimonials .item {
-  margin-bottom: 30px;
+  margin-bottom: 75px;
 }
 
 .testimonials .item:last-child {
@@ -489,7 +501,7 @@ a.dotted-link:hover {
   font-size: 16px;
   border-left: 5px solid #9fdeb7;
   padding: 5px 15px;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 .testimonials .item .quote p {
