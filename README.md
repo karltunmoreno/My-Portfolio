@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Challange 
 
-[![Product Name Screen Shot][product-screenshot]](./assets/images/screenshot.png)
+
 
 ### The Task:
 
