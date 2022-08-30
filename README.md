@@ -1,7 +1,5 @@
 
-<div id="top"><div>
-<!--
-*** This is the Readme for the Personal portfolio project
+
  
 --_________________________________________________________________________________________________________________________________________________
 
@@ -10,8 +8,6 @@
 
 
 <!-- Project Power -->
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- Project Logo -->
 <br />
