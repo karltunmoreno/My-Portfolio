@@ -1,37 +1,4 @@
 
-
- 
---_________________________________________________________________________________________________________________________________________________
-
-![My Image](KMORDER.png)
-
-
-
-<!-- Project Power -->
-
-<!-- Project Logo -->
-<br />
-<div align="center">
-    <a href="https://karltunmoreno.github.io/My-Portfolio/">
-        <img src="./assets/images/logo_readme.png" alt="portfolio">
-    <a/>
-    <h3 align="center">
-        Personal Portfolio Demo
-    </h3>
-    <p align="center">
-        A personal portfolio to be presented for the weeks challange
-        <br />
-        <a href="https://karltunmoreno.github.io/My-Portfolio/">
-            <strong>Explore the docs</strong>
-        </a>
-        <br />
-        <br />
-        <a href="https://karltunmoreno.github.io/My-Portfolio/">
-            View the site
-        </a>
-    </p>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
