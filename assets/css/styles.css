@@ -8,9 +8,9 @@
 */
 body {
   font-family: "Lato", arial, sans-serif;
-  color: #1b1a1a;
+  color: whitesmoke;
   /* background: #024e76;*/
-  background-image: url("../images/top.png");
+  background-image: url("../images/Portbackground.png");
 
   background-size: 1080px 1920px;
   background-position: center;
@@ -38,7 +38,7 @@ h6 {
 }
 
 a {
-  color: #c31a0b;
+  color: white;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -162,14 +162,14 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .name {
-  color: #49515a;
+  color: #ddf15f;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
 }
 
 .header .profile-content .desc {
-  color: #778492;
+  color: #ddf15f;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -702,7 +702,7 @@ a.dotted-link:hover {
 }
 
 body[data-theme="dark"] {
-  background: #17191c;
+  background: #d7dadf;
   /* Github Activity Dark Mode */
   /* Github activity */
 }
