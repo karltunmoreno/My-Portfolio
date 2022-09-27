@@ -631,15 +631,15 @@ a.dotted-link:hover {
 }
 
 .credits ul li a {
-  color: #778492;
+  color: #3d4246;
 }
 
 .credits ul li a .svg-inline--fa {
-  color: #b0b7bf;
+  color: #586469;
 }
 
 .credits ul li a:hover {
-  color: #49515a;
+  color: #2f85e7;
 }
 
 .credits .btn {
