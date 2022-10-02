@@ -1,5 +1,5 @@
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5622AQFhpU1-ikLKEQ/feedshare-shrink_800/0/1664441353109?e=1667433600&v=beta&t=cnzsb1Tg671hTflh3K0grP0r_dx0laSrTWKn_zIDXXM)
+![Ss](https://media-exp1.licdn.com/dms/image/C5622AQGgC8PR122MdA/feedshare-shrink_800/0/1664750294984?e=1667433600&v=beta&t=kFAEAMmLeehVtL1BcCGNaAFGDxAzdrz45IrR9_XaQYI)
 
 <!-- TABLE OF CONTENTS -->
 <details>
