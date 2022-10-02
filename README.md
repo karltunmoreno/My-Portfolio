@@ -19,10 +19,18 @@
 ## About The Challange 
 
 
-
-### The Task:
-
 A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. 
+
+_______________________________________________________________________________________________________________________________________________________________
+
+## Tech Used:
+
+  #### Front-end:
+ 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+
 
 ### Criteria:
 
