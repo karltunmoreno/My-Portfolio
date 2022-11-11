@@ -1,5 +1,5 @@
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5622AQGgC8PR122MdA/feedshare-shrink_800/0/1664750294984?e=1667433600&v=beta&t=kFAEAMmLeehVtL1BcCGNaAFGDxAzdrz45IrR9_XaQYI)
+![Ss](https://media-exp1.licdn.com/dms/image/C5622AQF0waqFZGkAIw/feedshare-shrink_800/0/1668110239369?e=1671062400&v=beta&t=6sbrraDhIMKUuZjefQy2wFEbq3ajkqU7-GZMgVujPhY)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -16,10 +16,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Challange 
 
-
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. 
 
 _______________________________________________________________________________________________________________________________________________________________
 
