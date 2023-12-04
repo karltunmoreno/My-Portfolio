@@ -1,5 +1,6 @@
+WELCOME TO MY PORTFOLIUO & BLOG
 
-![Ss](https://media.licdn.com/dms/image/C5622AQFPiHPJtKlMxA/feedshare-shrink_800/0/1674492468894?e=1677110400&v=beta&t=W5AjP08pjRP7D919MDRg_0PGbVlYHKi7lzd7OaVRf0c)
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/logo.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
