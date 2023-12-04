@@ -1,4 +1,4 @@
-WELCOME TO MY PORTFOLIUO & BLOG
+WELCOME TO MY PORTFOLIO & BLOG
 
 ![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/logo.png)
 
