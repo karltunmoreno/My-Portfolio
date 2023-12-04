@@ -1,6 +1,6 @@
 THIS LINK EILL REDIRECT YOU TO MY NEW PORTFOLIO & BLOG
 
-![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/logo.png)
+![Ss](https://www.karltunmediamagic.com/assets/img/others/old-portfolio-pic.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
