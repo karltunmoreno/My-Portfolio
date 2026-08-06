@@ -1,6 +1,7 @@
 # 🚀 My Portfolio & Blog
 
-![Portfolio Preview](https://media.licdn.com/dms/image/C5622AQF0waqFZGkAIw/feedshare-shrink_1280/0/1668110239369?e=1717027200&v=beta&t=UY97CJR5rNI0ILYqrLykEmwoDY6jPYZiye_U3SvaRP8)
+![App Screenshot](oldres.png)
+
 
 <p align="center">
   A responsive developer portfolio showcasing my work, skills, and contact information.
